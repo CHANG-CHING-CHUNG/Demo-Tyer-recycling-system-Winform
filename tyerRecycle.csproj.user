@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>publish\|ftp://bill%40192.168.1.201/xampp/htdocs/TyerRecycleApp/|ftp://bill%40192.168.1.200/web/tyer.hying.com.tw/TyerRecycleApp/|ftp://bill%40192.168.1.200/web/TyerRecycleApp/|ftp://bill%40192.168.1.200/htdocs/TyerRecycleApp/</PublishUrlHistory>
+    <InstallUrlHistory>http://114.34.229.69:81/TyerRecycleApp/|http://tyer.hying.com.tw/TyerRecycleApp/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>http://114.34.229.69:81/TyerRecycleApp/|http://tyer.hying.com.tw/TyerRecycleApp/|http://114.34.229.69/TyerRecycleApp/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>zh-TW</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
